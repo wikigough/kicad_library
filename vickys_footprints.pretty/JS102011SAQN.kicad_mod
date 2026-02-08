@@ -435,18 +435,6 @@
 		(uuid "73e0d64f-84af-4a21-9316-62122251d7d7")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 2.55 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(uuid "e0bd9ef9-f998-4938-835c-2cd700683b8b")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(layer "F.Fab")
 		(uuid "eff4d3ab-6fc8-4a9e-8f9c-eb93f2cd1bcc")
